@@ -1,0 +1,19 @@
+body{
+  background-image: url(4964898.min.jpg);
+  background-size: cover;
+}
+
+h1{
+  color: white;
+  font-style: Arial;
+}
+
+ h2{
+  color: white;
+}
+
+#Submit{
+  background-color: transparent;
+  color: white;
+  border-radius: none;
+}
